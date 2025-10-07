@@ -1,4 +1,4 @@
-module github.com/pdfcpu/pdfcpu
+module github.com/angel-one/pdfcpu
 
 go 1.20
 
